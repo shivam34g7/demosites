@@ -47,7 +47,7 @@
 
 a {
     text-decoration: none;
-    color: azure;
+    color: red;
 }
 
 .CD {
@@ -63,5 +63,5 @@ a {
     margin-right: auto;
     margin-left: auto;
     bottom: 10px;
-    color: azure;
+    color: red;
 }
