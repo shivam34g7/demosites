@@ -1,0 +1,21 @@
+#P1 {
+    font-size: 100px;
+    text-align: center;
+    font-weight: bolder;
+    color: gray;
+}
+
+#demo {
+    height: 50px;
+    width: 100px;
+    color: cornsilk;
+    background-color: black;
+    border-radius: 50%;
+}
+
+.background {
+    background-image: url(../assects/BGA.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 800px;
+}
