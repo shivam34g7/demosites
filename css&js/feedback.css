@@ -24,7 +24,7 @@
 }
 
 .S1 {
-    background-image: url(./assects/BGF.jpg);
+    background-image: url(../assects/BGF.jpg);
     background-size: cover;
     height: 800px;
 }
