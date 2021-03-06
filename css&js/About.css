@@ -68,15 +68,7 @@ a {
 }
 
 .V1 {
-    width: 5px;
-    height: 50%;
-    background-color: pink;
-    margin-bottom: 7px;
-    margin-right: auto;
-    margin-left: 10px;
-    margin-top: 9px;
-    border-width: 4px;
-    border-color: rgb(255, 0, 55);
+    border-left: 10px red ridge;
 }
 
 .D4 {
