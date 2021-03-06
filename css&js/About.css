@@ -46,3 +46,24 @@
     backdrop-filter: blur(10px);
     color: gray;
 }
+
+a {
+    text-decoration: none;
+    color: red;
+}
+
+.CD {
+    font-size: 20px;
+    text-align: center;
+}
+
+.CC {
+    position: fixed;
+    width: 100%;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    margin-right: auto;
+    margin-left: auto;
+    bottom: 10px;
+    color: red;
+}
