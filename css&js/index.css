@@ -14,9 +14,7 @@
 }
 
 .background {
-    background-image: url(../assects/BGA.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
+    background-color: burlywood;
     height: 900px;
 }
 
