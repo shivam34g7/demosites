@@ -46,7 +46,7 @@
     color: rgb(39, 252, 252);
 }
 
-a {
+#A1 {
     text-decoration: none;
     color: red;
 }
@@ -78,7 +78,7 @@ a {
 .S2 {
     background-color: aliceblue;
     background-size: cover;
-    height: 600px;
+    height: 700px;
 }
 
 .line {
@@ -95,30 +95,24 @@ a {
     z-index: 5;
 }
 
-
-}
 @keyframes lineM {
     0% {
         left: 0px;
         top: 0px;
     }
-    
     25% {
         left: 200px;
         top: 0px;
     }
-    
     50% {
         left: 200px;
         top: 200px;
     }
-    
     75% {
         ;
         left: 0px;
         top: 200px;
     }
-    
     100% {
         left: 0px;
         top: 0px;
