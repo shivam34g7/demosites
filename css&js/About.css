@@ -95,7 +95,8 @@
     z-index: 5;
 }
 
-@keyframes lineM {
+
+/* @keyframes lineM {
     0% {
         left: 0px;
         top: 0px;
@@ -117,4 +118,4 @@
         left: 0px;
         top: 0px;
     }
-}
+} */

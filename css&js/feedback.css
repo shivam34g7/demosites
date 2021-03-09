@@ -24,101 +24,9 @@
 }
 
 .S1 {
-    background-image: url(../assects/BGF.jpg);
-    background-size: cover;
-    height: 800px;
-}
-
-.D2 {
-    overflow: hidden;
-    background-image: linear-gradient(45deg, rgb(207, 240, 23), rgb(240, 132, 30));
-    font-weight: bolder;
-    font-size: 80px;
-    font-family: Georgia, serif;
-    padding-left: 20px;
-    color: rgb(255, 7, 214);
-}
-
-.D3 {
-    padding-left: 20px;
-    font-size: 25px;
-    color: cornsilk;
-    font-weight: bolder;
-}
-
-* {
-    box-sizing: border-box;
-}
-
-input[type=text],
-select,
-textarea {
-    width: 100%;
-    padding: 12px;
-    border: 1px solid rgb(70, 68, 68);
-    border-radius: 4px;
-    resize: vertical;
-}
-
-input[type=email],
-select,
-textarea {
-    width: 100%;
-    padding: 12px;
-    border: 1px solid rgb(70, 68, 68);
-    border-radius: 4px;
-    resize: vertical;
-}
-
-label {
-    padding: 12px 12px 12px 0;
-    display: inline-block;
-}
-
-input[type=submit] {
-    background-color: rgb(37, 116, 161);
-    color: white;
-    padding: 12px 20px;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
-    float: right;
-}
-
-input[type=submit]:hover {
-    background-color: #45a049;
-}
-
-.container {
-    border-radius: 5px;
-    font-size: 4 0px;
-    color: cornsilk;
-    padding-top: 20px;
-    padding-left: 30px;
-    font-weight: bolder;
-}
-
-.col-25 {
-    float: left;
-    width: 25%;
-    margin-top: 6px;
-}
-
-.col-75 {
-    float: left;
-    width: 75%;
-    margin-top: 6px;
-}
-
-.row:after {
-    content: "";
-    display: table;
-    clear: both;
-}
-
-a {
-    text-decoration: none;
-    color: red;
+    background-color: rosybrown;
+    height: 250px;
+    padding-top: 10px;
 }
 
 .CD {
@@ -135,4 +43,54 @@ a {
     margin-left: auto;
     bottom: 10px;
     color: red;
+}
+
+#A1 {
+    text-decoration: none;
+    color: red;
+}
+
+#D2 {
+    padding-top: 20px;
+    padding-left: 20px;
+    border-left: 20px aquamarine ridge;
+    font-size: 60px;
+    padding-bottom: 20px;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#D3 {
+    font-size: 25px;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+#A2 {
+    text-decoration: none;
+    color: greenyellow;
+    border: #333 10px ridge;
+    padding-bottom: 5px;
+}
+
+#A3 {
+    text-decoration: none;
+    color: greenyellow;
+    border: #333 10px ridge;
+}
+
+.S2 {
+    background-color: aquamarine;
+    height: 300px;
+    padding-top: 10px;
+}
+
+#D4 {
+    padding-top: 20px;
+    padding-left: 20px;
+    border-left: 20px rosybrown ridge;
+    font-size: 60px;
+    padding-bottom: 20px;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
 }
