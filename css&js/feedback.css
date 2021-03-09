@@ -94,3 +94,17 @@
     font-weight: bolder;
     font-family: 'Times New Roman', Times, serif;
 }
+
+#I1 {
+    padding-top: 30px;
+    padding-left: 50px;
+    height: 70px;
+    width: 70px;
+}
+
+#I2 {
+    padding-top: 30px;
+    padding-left: 50px;
+    height: 70px;
+    width: 90px;
+}
