@@ -1,103 +1,100 @@
-.D1 {
-    overflow: hidden;
-    background-color: #333;
-    width: 408.488px;
-}
-
-.D1 a {
-    float: left;
-    color: #f2f2f2;
-    text-align: center;
-    padding: 14px 20px;
-    text-decoration: none;
-    font-size: 20px;
-    font-weight: bold;
-}
-
-.D1 a:hover {
-    background-color: #ddd;
-    color: black;
-}
-
-.D1 a.active {
-    background-color: #e79110;
-    color: white;
-}
-
-.S1 {
-    /* background-image: url(../assects/BG.jpg); */
-    background-color: antiquewhite;
-    background-size: cover;
-    height: 600px;
-}
-
-.D2 {
-    overflow: hidden;
-    background-image: linear-gradient(45deg, purple, cyan);
-    font-weight: bolder;
-    font-size: 80px;
-    font-family: Georgia, serif;
-    padding-left: 20px;
-    color: darksalmon;
-}
-
-.D3 {
-    font-size: 50px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: rgb(39, 252, 252);
-}
-
-#A1 {
-    text-decoration: none;
-    color: red;
-}
-
-.CD {
-    font-size: 20px;
-    text-align: center;
-}
-
-.CC {
-    position: fixed;
-    width: 100%;
-    padding-right: 1rem;
-    padding-left: 1rem;
-    margin-right: auto;
-    margin-left: auto;
-    bottom: 10px;
-    color: red;
-}
-
-.V1 {
-    border-left: 10px red ridge;
-}
-
-.D4 {
-    padding-left: 20px;
-}
-
-.S2 {
-    background-color: aliceblue;
-    background-size: cover;
-    height: 700px;
-}
-
-.line {
-    position: relative;
-    background-color: orange;
-    left: 40%;
-    height: 10px;
-    width: 300px;
-    padding: 1px;
-    animation-name: lineM;
-    animation-duration: 4s;
-    animation-iteration-count: infinite;
-    animation: roll 3s ease-in-out infinite alternate;
-    z-index: 5;
-}
-
-
-/* @keyframes lineM {
+    .D1 {
+        overflow: hidden;
+        background-color: #333;
+    }
+    
+    .D1 a {
+        float: left;
+        color: #f2f2f2;
+        text-align: center;
+        padding: 14px 20px;
+        text-decoration: none;
+        font-size: 20px;
+        font-weight: bold;
+    }
+    
+    .D1 a:hover {
+        background-color: #ddd;
+        color: black;
+    }
+    
+    .D1 a.active {
+        background-color: #e79110;
+        color: white;
+    }
+    
+    .S1 {
+        /* background-image: url(../assects/BG.jpg); */
+        background-color: antiquewhite;
+        background-size: cover;
+        height: 600px;
+    }
+    
+    .D2 {
+        overflow: hidden;
+        background-image: linear-gradient(45deg, purple, cyan);
+        font-weight: bolder;
+        font-size: 80px;
+        font-family: Georgia, serif;
+        padding-left: 20px;
+        color: darksalmon;
+    }
+    
+    .D3 {
+        font-size: 50px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: rgb(39, 252, 252);
+    }
+    
+    #A1 {
+        text-decoration: none;
+        color: red;
+    }
+    
+    .CD {
+        font-size: 20px;
+        text-align: center;
+    }
+    
+    .CC {
+        position: fixed;
+        width: 100%;
+        padding-right: 1rem;
+        padding-left: 1rem;
+        margin-right: auto;
+        margin-left: auto;
+        bottom: 10px;
+        color: red;
+    }
+    
+    .V1 {
+        border-left: 10px red ridge;
+    }
+    
+    .D4 {
+        padding-left: 20px;
+    }
+    
+    .S2 {
+        background-color: aliceblue;
+        background-size: cover;
+        height: 700px;
+    }
+    
+    .line {
+        position: relative;
+        background-color: orange;
+        left: 40%;
+        height: 10px;
+        width: 300px;
+        padding: 1px;
+        animation-name: lineM;
+        animation-duration: 4s;
+        animation-iteration-count: infinite;
+        animation: roll 3s ease-in-out infinite alternate;
+        z-index: 5;
+    }
+    /* @keyframes lineM {
     0% {
         left: 0px;
         top: 0px;
